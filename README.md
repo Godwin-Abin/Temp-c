@@ -43,7 +43,7 @@ This C program simulates a temperature monitoring system.
 
 **Demo Video**
 
-<video width="772" height="580" controls>
-  <source src="./assets/tempc.mp4" type="video/mp4">
+<video width="772" height="580" controls autoplay loop>
+  <source src="https://godwin-abin.github.io/Temp-c/assets/tempc.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
