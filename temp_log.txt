@@ -1,0 +1,10 @@
+Reading 1: 21.48°C
+Reading 2: 53.27°C
+Reading 3: 41.03°C
+Reading 4: 9.32°C
+Reading 5: 40.01°C
+Reading 6: 16.17°C
+Reading 7: 59.48°C
+Reading 8: 31.38°C
+Reading 9: 47.64°C
+Reading 10: 3.26°C
