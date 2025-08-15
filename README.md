@@ -47,3 +47,5 @@ This C program simulates a temperature monitoring system.
   <source src="https://godwin-abin.github.io/Temp-c/assets/tempc.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[![Watch the Temperature Demo Video](./assets/tempc_output.png)](https://godwin-abin.github.io/Temp-c/assets/tempc.mp4)
